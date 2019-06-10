@@ -5,7 +5,7 @@ sangat diharapkan teman-teman yang telah terdaftar juga membantu mengisi talk di
 
 Nama : Jufianto Henri  
 Kontak : [Telegram](https://t.me/jufiantohenri) | [Email](mailto://jufiantohendri@gmail.com) | [Linkedin](https://www.linkedin.com/in/jufianto/) | [Blog](https://blog.jufianto.com)   
-Pekerjaan : Developer Riau Core Technology  
+Pekerjaan : Software Engineer CV.Riau Core Technology  
 Keahlian : Linux, Web Developer (PHP + HTML + CSS), Network Administrator, System Administrator, Python Developer  
 Interest : Machine Learning, Internet of Things, VueJs  
 Peluang Kolaborasi : saat ini pengen collab untuk pembuatan aplikasi web menggunakan API REST service dan menggunakan github 
