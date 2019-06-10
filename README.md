@@ -9,7 +9,7 @@ Kontak : [Telegram](https://t.me/jufiantohenri) | [Email](mailto://jufiantohendr
 Pekerjaan : Software Engineer CV.Riau Core Technology  
 Keahlian : Linux, Web Developer (PHP + HTML + CSS), Network Administrator, System Administrator, Python Developer  
 Interest : Machine Learning, Internet of Things, VueJs  
-Peluang Kolaborasi : saat ini pengen collab untuk pembuatan aplikasi web menggunakan API REST service dan menggunakan github 
+Peluang Kolaborasi : Saat ini pengen collab untuk pembuatan aplikasi web menggunakan API REST service dan menggunakan github 
 
 ---
 Nama : R Ertantyo EP (Ery)  
