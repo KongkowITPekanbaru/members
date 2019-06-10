@@ -1,2 +1,7 @@
 # members
-data - data member Kongkow IT Pekanbaru
+Berikut ini data teman-teman Kongkow IT Pekanbaru. 
+
+Jufianto
+###
+
+Predi
