@@ -2,7 +2,7 @@
 Berikut ini data teman-teman Kongkow IT Pekanbaru. 
 
 Nama : Jufianto Henri  
-Kontak : t.me/jufiantohenri / jufiantohendri@gmail.com  
+Kontak : t.me/jufiantohenri / jufiantohendri@gmail.com / linkedin.com/in/jufianto / http://blog.jufianto.com   
 Pekerjaan : Developer Riau Core Technology  
 keahlian : Linux, Web Developer (PHP + HTML + CSS), Network Administrator, System Administrator, Python Developer  
 interest : Machine Learning, Internet of Things, VueJs  
