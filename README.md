@@ -1,6 +1,8 @@
 # Members
 Berikut ini data teman-teman Kongkow IT Pekanbaru. 
 
+sangat diharapkan teman-teman yang telah terdaftar juga membantu mengisi talk di https://github.com/KongkowITPekanbaru/kwit-talks dan nanti juga di update ke Kontributor List.
+
 Nama : Jufianto Henri  
 Kontak : t.me/jufiantohenri / jufiantohendri@gmail.com / linkedin.com/in/jufianto / http://blog.jufianto.com   
 Pekerjaan : Developer Riau Core Technology  
