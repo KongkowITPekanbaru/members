@@ -27,4 +27,10 @@ Keahlian : Linux, Web Development (PHP, JS), Python Desktop Development, GIS Too
 Interest : Startup, Devops, Open Source, Social Business, Education  
 Peluang Kolaborasi : Ingin join project-project IT yang berhubungan dengan bisnis-bisnis di sektor riil (agro, retail, manufaktur, dll)
 
-
+---
+Nama : Ahmad Reza
+Kontak : [Telegram](https://t.me/hungryDev39) | [Email](mailto://hungry.de39@gmail.com) | [Linkedin](https://www.linkedin.com/in/ahmad-reza-68ab52170/)[Website](http://hungry-dev39.herokuapp.com/)
+Pekerjaan : Belum Ada / Freelance Web / Fresh Graduate SMK
+Keahlian : Linux, Fullstack Developer(PHP, Python,JS, CSS, SASS, HTML, Laravel, Django, React, Vue )
+Interest : Machine Learning, Data Science, React Native, Mobile Development
+Peluang Kolaborasi : Ingin membuat library - library open source, Terutama yang berbasis web.
