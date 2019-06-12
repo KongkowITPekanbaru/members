@@ -14,8 +14,8 @@ Peluang Kolaborasi : Saat ini pengen collab untuk pembuatan aplikasi web menggun
 ---
 Nama : R Ertantyo EP (Ery)  
 Kontak : [Telegram](https://t.me/eoreid) | [Email](mailto://eore26@gmail.com) | [Linkedin](https://id.linkedin.com/in/ertantyo-edi-prabowo-010216166)  
-Pekerjaan : Software Engineer PT. TAB  
-Keahlian : Linux, Fullstack Developer (Go, Node.js, Vue.js, React.js), Mobile Development (React Native), DevOps (Docker)  
+Pekerjaan : Software Engineer PT. Sistem Teknologi Andalan Bangsa  
+Keahlian : Linux, Fullstack Web Development (Go, Node.js, Vue.js, React.js), Mobile Development (React Native), DevOps (Docker, Shell)  
 Interest : (AI, ML, DL), IoT, Software Architecture, CI/CD, Mobile Dev Native  
 Peluang Kolaborasi : Memulai project opensource tentang Sistem Informasi Manajemen Dokemen Akreditasi untuk rumah sakit menggunakan Go + Vue.js dan ingin berkontribusi di project opensource lokal  
 
