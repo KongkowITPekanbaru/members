@@ -48,7 +48,7 @@ Peluang Kolaborasi : Berminat membuat atau bergabung dalam pembuatan aplikasi un
 Nama : Ahmad Ainul Rizki
 Kontak : [Telegram](https://t.me/ehadaahmad) | [Email](mailto://ahmad@tanahatas.me) | [Instagram](https://www.instagram.com/tanahatas) | [GitHub](https://github.com/tanahatas) | [Website](https://tanahatas.me)   
 Pekerjaan : Front-End Developer
-Keahlian : UI/UX Designer | React | Vue | GatsbyJs | Nuxt.js | Next.js | Node.js
+Keahlian : UI/UX Designer | React | Vue | GatsbyJs | Nuxt.js | Next.js | Node.js    
 Interest : Front-End Developer & UI/UX Designer
 Peluang Kolaborasi : Ikut berkontribusi dalam project-project open source yang dibuat oleh Kongkow IT Pekanbaru
 
